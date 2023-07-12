@@ -36,7 +36,7 @@ const Navbar = () => {
           </Typography>
         </Box>
         <Box display="flex" alignItems="center" justifyContent="flex-end">
-          <Link href="/new" color="inherit" underline="none">
+          <Link href="/" color="inherit" underline="none">
             <Typography variant="body1" sx={{ marginLeft: 2, color: "white" }}>
               New Releases
             </Typography>
