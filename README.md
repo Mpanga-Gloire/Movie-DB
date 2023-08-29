@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+In the project directory, you can download all the packages using :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `npm i --legacy-peer-deps`
 
 ## Available Scripts
 
